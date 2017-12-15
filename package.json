@@ -1,6 +1,6 @@
 {
   "name": "loopback-kafka-producer-mixin",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Kafka Producer mixin for loopback to add sendEvent method to your models",
   "main": "index.js",
   "scripts": {
